@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Charm|Fredericka+the+Great');
+
+html {
+    font-family: "Fredericka the Great";
+    color: #143914;
+    font-size: 12px;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+a {
+    color: #669900;
+}
+
+a:hover {
+    color: #e00dbd
+}
+
+a:focus{
+    color:#e00dbd;
+}
+
+p {
+    text-align: center;
+}
+
+h1, h2 {
+    color: #143914;
+    text-align: center;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+.nav_bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    height: 30px;
+    padding: 10px;
+    width: 100%;
+
+}
+
+.welcome {
+    font-size: 2em
+}
+
+.links_nav {
+    font-size: 2em;
+}
+
+.plants_collection {
+    background-color: #d9f2e6;
+    font-size: 1rem;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    height: 90%;
+}
+
+img {
+    height: 200px;
+    width: 200px
+}
+
+/*.prayer_plant .elephant_ear .spider_plant .ivy.snake_plant .cheese_plant { flex: 1.3344; }*/
