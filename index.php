@@ -109,6 +109,7 @@
             76.3cm
             <h3>POISENOUS:</h3>
             yes
+        </div>
 
 </div>
 </main>
