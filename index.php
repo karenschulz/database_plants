@@ -21,9 +21,9 @@
     <h1>Here you can see my stunning house plant collection:</h1>
 
     <div class="plants_collection">
-        <div class="prayer_plant">
+        <div class="plants">
             <img class="prayer_plant" src="images/prayer_plant.jpg" alt="here you can see my stunning Prayer Plant or Calathea medallion">
-            <h2>Prayer plant</h2>
+            <p>Prayer Plant</p>
             <h2>BOTANICAL NAME:</h2>
             <ul>Calathea medallion</ul>
             <h2>NICKNAME:</h2>
@@ -37,9 +37,9 @@
 
         </div>
 
-        <div class="elephant_ear">
+        <div class="plants">
             <img class="elephant_ear" src="images/elephant-ear-plant.jpg" alt="beautiful elephant ear plant with a blue background">
-            <h2>Elephant ear plant</h2>
+            <p>Elephant Ear Plant</p>
             <h2>BOTANICAL NAME:</h2>
             <ul>Alocasia zebrina</ul>
             <h2>NICKNAME:</h2>
@@ -52,9 +52,9 @@
             <ul>Yes</ul>
         </div>
 
-        <div class="spider_plant">
+        <div class="plants">
             <img class="spider_plant" src="images/curly-spider-plant.jpg" alt="curly spider plant in a grey pot">
-            <h2>Curly spider plant</h2>
+            <p>Curly Spider Plant</p>
             <h2>BOTANICAL NAME:</h2>
             <ul>Chlorophytum comosum</ul>
             <h2>NICKNAME:</h2>
@@ -68,9 +68,9 @@
 
         </div>
 
-        <div class="ivy">
+        <div class="plants">
             <img class="ivy" src="images/ivy.jpg" alt="english ivy in a grey pot with white background">
-            <h2>English ivy plant</h2>
+            <p>English Ivy Plant</p>
             <h2>BOTANICAL NAME:</h2>
             <ul>Hedera helix</ul>
             <h2>NICKNAME:</h2>
@@ -83,9 +83,9 @@
             <ul>Yes</ul>
         </div>
 
-        <div class="snake_plant">
+        <div class="plants">
             <img class="snake_plant" src="images/snake-plant.jpg" alt="snake plant also called mother in laws tongues in a dark grey pot">
-            <h2>Snake plant</h2>
+            <p>Snake Plant</p>
             <h2>BOTANICAL NAME:</h2>
             <ul>Sansevieria trifasciata</ul>
             <h2>NICKNAME:</h2>
@@ -98,9 +98,9 @@
             <ul>Yes</ul>
         </div>
 
-        <div class="cheese_plant">
+        <div class="plants">
             <img class="cheese_plant" src="images/cheeseplant.jpg" alt="cheese plant in a traditional plastic pot">
-            <h2>Cheese plant</h2>
+            <p>Cheese Plant</p>
             <h2>BOTANICAL NAME:</h2>
             <ul>Monstera deliciosa</ul>
             <h2>NICKNAME:</h2>
