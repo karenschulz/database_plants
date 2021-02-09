@@ -37,6 +37,13 @@ a:focus{
 
 p {
     text-align: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 0px
+    padding-right: 0px;
+    font-size: 2em;
+    font-weight: bold;
+    color: #434323;
 }
 
 h1, h2 {
@@ -63,6 +70,7 @@ h1 {
 .welcome {
     font-size: 2em;
     font-weight: bold;
+    padding-top: 0px;
 }
 
 .links_nav {
@@ -75,6 +83,7 @@ h1 {
     font-family: 'Roboto Slab', serif;
     text-align: center;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     padding-left: 50px;
     padding-right: 50px;
@@ -82,13 +91,23 @@ h1 {
     padding-top: 50px;
 }
 
-.prayer_plant {
-
+.plants {
+    width: 280px;
+    background-color: white;
+    margin: 10px;
+    padding-top: 15px;
+    padding-bottom: 20px;
 }
 
 img {
     height: 250px;
     width: 250px;
+}
+
+footer {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: center;
 }
 
 
@@ -99,17 +118,19 @@ img {
     }
 
     h1, h2 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     p {
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 
     a {
         font-size: 1rem;
     }
-
+    .welcome {
+        font-size: 1rem;
+    }
     .plants_collection {
         width: 50%;
     }
