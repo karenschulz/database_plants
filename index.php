@@ -23,95 +23,92 @@
     <div class="plants_collection">
         <div class="plants">
             <img class="prayer_plant" src="images/prayer_plant.jpg" alt="here you can see my stunning Prayer Plant or Calathea medallion">
-            <p>Prayer Plant</p>
-            <h2>BOTANICAL NAME:</h2>
-            <ul>Calathea medallion</ul>
-            <h2>NICKNAME:</h2>
-            <ul>Prayer plant</ul>
-            <h2>PLANT TYPE:</h2>
-            <ul>Perennial, indoor</ul>
-            <h2>PLANT HEIGHT:</h2>
-            <ul>76.3 cm</ul>
-            <h2>POISENOUS:</h2>
-            <ul>No</ul>
-
+            <h2>Prayer Plant</h2>
+            <h3>BOTANICAL NAME:</h3>
+            Calathea medallion
+            <h3>NICKNAME:</h3>
+            Prayer plant
+            <h3>PLANT TYPE:</h3>
+            Perennial, indoor
+            <h3>PLANT HEIGHT:</h3>
+            76.3 cm
+            <h3>POISENOUS:</h3>
+            No
         </div>
 
         <div class="plants">
             <img class="elephant_ear" src="images/elephant-ear-plant.jpg" alt="beautiful elephant ear plant with a blue background">
-            <p>Elephant Ear Plant</p>
-            <h2>BOTANICAL NAME:</h2>
-            <ul>Alocasia zebrina</ul>
-            <h2>NICKNAME:</h2>
-            <ul>Elephant ear plant</ul>
-            <h2>PLANT TYPE:</h2>
-            <ul>Perennial, indoor</ul>
-            <h2>PLANT HEIGHT:</h2>
-            <ul>55.5 cm</ul>
-            <h2>POISENOUS:</h2>
-            <ul>Yes</ul>
+            <h2>Elephant Ear Plant</h2>
+            <h3>BOTANICAL NAME:</h3>
+            Alocasia zebrina
+            <h3>NICKNAME:</h3>
+            Elephant ear plant
+            <h3>PLANT TYPE:</h3>
+            Perennial, indoor
+            <h3>PLANT HEIGHT:</h3>
+            55.5 cm
+            <h3>POISENOUS:</h3>
+            Yes
         </div>
 
         <div class="plants">
             <img class="spider_plant" src="images/curly-spider-plant.jpg" alt="curly spider plant in a grey pot">
-            <p>Curly Spider Plant</p>
-            <h2>BOTANICAL NAME:</h2>
-            <ul>Chlorophytum comosum</ul>
-            <h2>NICKNAME:</h2>
-            <ul>Curly spider plant; Variegated spider plant; Airplane plant</ul>
-            <h2>PLANT TYPE:</h2>
-            <ul>Perennial indoor</ul>
-            <h2>PLANT HEIGHT:</h2>
-            <ul>30 cm</ul>
-            <h2>POISENOUS:</h2>
-            <ul>No</ul>
-
+            <h2>Curly Spider Plant</h2>
+            <h3>BOTANICAL NAME:</h3>
+            Chlorophytum comosum
+            <h3>NICKNAME:</h3>
+            Curly spider plant; Variegated spider plant; Airplane plant
+            <h3>PLANT TYPE:</h3>
+            Perennial indoor
+            <h3>PLANT HEIGHT:</h3>
+            30 cm
+            <h3>POISENOUS:</h3>
+            No
         </div>
 
         <div class="plants">
             <img class="ivy" src="images/ivy.jpg" alt="english ivy in a grey pot with white background">
-            <p>English Ivy Plant</p>
-            <h2>BOTANICAL NAME:</h2>
-            <ul>Hedera helix</ul>
-            <h2>NICKNAME:</h2>
-            <ul>English ivy; Common ivy; European ivy</ul>
-            <h2>PLANT TYPE:</h2>
-            <ul>Evergreen climber</ul>
-            <h2>PLANT HEIGHT:</h2>
-            <ul>34.5</ul>
-            <h2>POISENOUS:</h2>
-            <ul>Yes</ul>
+            <h2>English Ivy Plant</h2>
+            <h3>BOTANICAL NAME:</h3>
+            Hedera helix
+            <h3>NICKNAME:</h3>
+            English ivy; Common ivy; European ivy
+            <h3>PLANT TYPE:</h3>
+            Evergreen climber
+            <h3>PLANT HEIGHT:</h3>
+            34.5
+            <h3>POISENOUS:</h3>
+            Yes
         </div>
 
         <div class="plants">
             <img class="snake_plant" src="images/snake-plant.jpg" alt="snake plant also called mother in laws tongues in a dark grey pot">
-            <p>Snake Plant</p>
-            <h2>BOTANICAL NAME:</h2>
-            <ul>Sansevieria trifasciata</ul>
-            <h2>NICKNAME:</h2>
-            <ul>Snake plant; Mother-in-Laws tongue; Vipers bowst</ul>
-            <h2>PLANT TYPE:</h2>
-            <ul>Perennial, indoor</ul>
-            <h2>PLANT HEIGHT:</h2>
-            <ul>64.3 cm</ul>
-            <h2>POISENOUS:</h2>
-            <ul>Yes</ul>
+            <h2>Snake Plant</h2>
+            <h3>BOTANICAL NAME:</h3>
+            Sansevieria trifasciata
+            <h3>NICKNAME:</h3>
+            Snake plant; Mother-in-Laws tongue; Vipers bowst
+            <h3>PLANT TYPE:</h3>
+            Perennial, indoor
+            <h3>PLANT HEIGHT:</h3>
+            64.3 cm
+            <h3>POISENOUS:</h3>
+            Yes
         </div>
 
         <div class="plants">
             <img class="cheese_plant" src="images/cheeseplant.jpg" alt="cheese plant in a traditional plastic pot">
-            <p>Cheese Plant</p>
-            <h2>BOTANICAL NAME:</h2>
-            <ul>Monstera deliciosa</ul>
-            <h2>NICKNAME:</h2>
-            <ul>Cheese plant; Ceriman; Custard plant; Indian ivy; Fruit salad plant; Mexican breadfruit</ul>
-            <h2>PLANT TYPE:</h2>
-            <ul>Evergreen shrub, indoor</ul>
-            <h2>PLANT HEIGHT:</h2>
-            <ul>76.3cm</ul>
-            <h2>POISENOUS:</h2>
-            <ul>yes</ul>
-            </p>
+            <h2>Cheese Plant</h2>
+            <h3>BOTANICAL NAME:</h3>
+            Monstera deliciosa
+            <h3>NICKNAME:</h3>
+            Cheese plant; Ceriman; Custard plant; Indian ivy; Fruit salad plant; Mexican breadfruit
+            <h3>PLANT TYPE:</h3>
+            Evergreen shrub, indoor
+            <h3>PLANT HEIGHT:</h3>
+            76.3cm
+            <h3>POISENOUS:</h3>
+            yes
 
 </div>
 </main>
