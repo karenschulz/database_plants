@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Roboto+Slab&display=swap');
+
+html {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #143914;
+    font-size: 12px;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+main {
+    background-color: #d9f2e6;
+    text-align: center;
+    padding-top: 50px;
+}
+
+a {
+    color: #669900;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+a:hover {
+    color: #e00dbd
+}
+
+a:focus{
+    color:#e00dbd;
+}
+
+p {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-size: 2em;
+    font-weight: bold;
+    color: #434323;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #434323;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+h3 {
+    padding-top: 15px;
+    padding-bottom: 1px;
+}
+
+h1, h2 {
+    color: #143914;
+    text-align: center;
+    font-weight: normal;
+}
+.nav_bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    height: 30px;
+    padding: 30px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+.welcome {
+    font-size: 2em;
+    font-weight: bold;
+    padding-top: 0px;
+}
+
+.links_nav {
+    font-size: 2em;
+}
+
+.plants_collection {
+    background-color: #d9f2e6;
+    font-size: 1rem;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.plants {
+    width: 280px;
+    background-color: #FFFFFF;
+    margin: 10px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+.form_ {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: #d9f2e6;
+    text-align: center;
+    margin: 0 0 40px 0;
+}
+
+footer {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 600px) {
+
+    .welcome {
+        width: 50%;
+    }
+
+    h1, h2 {
+        font-size: 2rem;
+    }
+
+    h3{
+        font-size: 1rem;
+    }
+
+    p {
+        font-size: 1.5rem;
+    }
+
+    a {
+        font-size: 1rem;
+    }
+    .welcome {
+        font-size: 1rem;
+    }
+    .plants_collection {
+        width: 50%;
+    }
+
+}
